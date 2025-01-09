@@ -1,0 +1,16 @@
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\bin\Debug\Evaluación.exe.config
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\bin\Debug\Evaluación.exe
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\bin\Debug\Evaluación.pdb
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Form1.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Properties.Resources.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Vistas.Libros.CULibros.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Vistas.Libros.frmLibros.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Vistas.Prestamos.CUPrestamos.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Vistas.Prestamos.frmPrestamos.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Vistas.Usuarios.CUUsuarios.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.Vistas.Usuarios.frmUsuarios.resources
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.csproj.GenerateResource.cache
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.exe
+C:\Users\JUNIOR\Documents\Evaluación POO\Parcial 1\Evaluación\obj\Debug\Evaluación.pdb
