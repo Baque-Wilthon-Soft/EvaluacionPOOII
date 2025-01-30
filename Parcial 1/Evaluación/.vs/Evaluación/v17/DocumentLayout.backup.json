@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CF3808B-21B5-45FC-88D3-01D614C5FC41}|Evaluaci\u00F3n.csproj|c:\\users\\junior\\documents\\evaluaci\u00F3n poo\\parcial 1\\evaluaci\u00F3n\\men\u00FA biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CF3808B-21B5-45FC-88D3-01D614C5FC41}|Evaluaci\u00F3n.csproj|solutionrelative:men\u00FA biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF3808B-21B5-45FC-88D3-01D614C5FC41}|Evaluaci\u00F3n.csproj|c:\\users\\junior\\documents\\evaluaci\u00F3n poo\\parcial 1\\evaluaci\u00F3n\\men\u00FA biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF3808B-21B5-45FC-88D3-01D614C5FC41}|Evaluaci\u00F3n.csproj|solutionrelative:men\u00FA biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CF3808B-21B5-45FC-88D3-01D614C5FC41}|Evaluaci\u00F3n.csproj|c:\\users\\junior\\documents\\evaluaci\u00F3n poo\\parcial 1\\evaluaci\u00F3n\\vistas\\libros\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CF3808B-21B5-45FC-88D3-01D614C5FC41}|Evaluaci\u00F3n.csproj|solutionrelative:vistas\\libros\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,24 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Men\u00FA Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Men\u00FA Biblioteca.cs",
+              "RelativeDocumentMoniker": "Men\u00FA Biblioteca.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Men\u00FA Biblioteca.cs*",
+              "RelativeToolTip": "Men\u00FA Biblioteca.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:05:36.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Men\u00FA Biblioteca.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Men\u00FA Biblioteca.cs",
+              "RelativeDocumentMoniker": "Men\u00FA Biblioteca.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Men\u00FA Biblioteca.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Men\u00FA Biblioteca.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:05:18.293Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmLibros.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Vistas\\Libros\\frmLibros.cs",
               "RelativeDocumentMoniker": "Vistas\\Libros\\frmLibros.cs",
               "ToolTip": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Vistas\\Libros\\frmLibros.cs",
               "RelativeToolTip": "Vistas\\Libros\\frmLibros.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA0wBoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T22:00:13.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmLibros.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Vistas\\Libros\\frmLibros.cs",
               "RelativeDocumentMoniker": "Vistas\\Libros\\frmLibros.cs",
@@ -50,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CULibros.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\Evaluaci\u00F3n POO\\Parcial 1\\Evaluaci\u00F3n\\Vistas\\Libros\\CULibros.cs",
               "RelativeDocumentMoniker": "Vistas\\Libros\\CULibros.cs",

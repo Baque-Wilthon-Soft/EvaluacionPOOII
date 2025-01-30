@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|c:\\users\\junior\\documents\\eval\\parcial 2\\facturacionelectronica\\view\\facturaview\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:view\\facturaview\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\view\\detallefacturaview\\cureporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:view\\detallefacturaview\\cureporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\view\\facturaview\\cufactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:view\\facturaview\\cufactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\view\\clientesview\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:view\\clientesview\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\view\\clientesview\\cucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:view\\clientesview\\cucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\men\u00FA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:men\u00FA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\men\u00FA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:men\u00FA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmFactura.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\FrmFactura.cs",
+              "RelativeDocumentMoniker": "View\\FacturaView\\FrmFactura.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\FrmFactura.cs",
+              "RelativeToolTip": "View\\FacturaView\\FrmFactura.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAUwKsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:01:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUFactura.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\CUFactura.cs",
+              "RelativeDocumentMoniker": "View\\FacturaView\\CUFactura.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\CUFactura.cs",
+              "RelativeToolTip": "View\\FacturaView\\CUFactura.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:01:26.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CUReporte.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\DetalleFacturaView\\CUReporte.cs",
+              "RelativeDocumentMoniker": "View\\DetalleFacturaView\\CUReporte.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\DetalleFacturaView\\CUReporte.cs",
+              "RelativeToolTip": "View\\DetalleFacturaView\\CUReporte.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:01:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\ClientesView\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "View\\ClientesView\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\ClientesView\\FrmClientes.cs",
+              "RelativeToolTip": "View\\ClientesView\\FrmClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:01:04.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CUCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\ClientesView\\CUCliente.cs",
+              "RelativeDocumentMoniker": "View\\ClientesView\\CUCliente.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\ClientesView\\CUCliente.cs",
+              "RelativeToolTip": "View\\ClientesView\\CUCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:01:01.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Producto.cs",
+              "RelativeDocumentMoniker": "Model\\Producto.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Producto.cs",
+              "RelativeToolTip": "Model\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Factura.cs",
+              "RelativeDocumentMoniker": "Model\\Factura.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Factura.cs",
+              "RelativeToolTip": "Model\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:54.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Model\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\DetalleFactura.cs",
+              "RelativeToolTip": "Model\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:53.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\conexion.cs",
+              "RelativeDocumentMoniker": "Model\\conexion.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\conexion.cs",
+              "RelativeToolTip": "Model\\conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:52.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Cliente.cs",
+              "RelativeToolTip": "Model\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:52.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:46.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetalleFacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\DetalleFacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetalleFacturaController.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\DetalleFacturaController.cs",
+              "RelativeToolTip": "Controllers\\DetalleFacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:36.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Men\u00FA.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Men\u00FA.cs",
+              "RelativeDocumentMoniker": "Men\u00FA.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Men\u00FA.cs",
+              "RelativeToolTip": "Men\u00FA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:23.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Men\u00FA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Men\u00FA.cs",
+              "RelativeDocumentMoniker": "Men\u00FA.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 7\\FacturacionElectronica\\Men\u00FA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\POO\\Tarea 7\\FacturacionElectronica\\Men\u00FA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:58:37.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
