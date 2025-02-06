@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|c:\\users\\junior\\documents\\eval\\parcial 2\\facturacionelectronica\\view\\facturaview\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:view\\facturaview\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|solutionrelative:model\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC960802-2085-4CD6-8CA0-1468826C97B1}|FacturacionElectronica.csproj|C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmFactura.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\FrmFactura.cs",
               "RelativeDocumentMoniker": "View\\FacturaView\\FrmFactura.cs",
@@ -92,18 +92,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CUFactura.cs",
-              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\CUFactura.cs",
-              "RelativeDocumentMoniker": "View\\FacturaView\\CUFactura.cs",
-              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\CUFactura.cs",
-              "RelativeToolTip": "View\\FacturaView\\CUFactura.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:01:26.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CUReporte.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\DetalleFacturaView\\CUReporte.cs",
               "RelativeDocumentMoniker": "View\\DetalleFacturaView\\CUReporte.cs",
@@ -115,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmClientes.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\ClientesView\\FrmClientes.cs",
               "RelativeDocumentMoniker": "View\\ClientesView\\FrmClientes.cs",
@@ -127,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CUCliente.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\ClientesView\\CUCliente.cs",
               "RelativeDocumentMoniker": "View\\ClientesView\\CUCliente.cs",
@@ -139,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Producto.cs",
               "RelativeDocumentMoniker": "Model\\Producto.cs",
@@ -151,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\Factura.cs",
               "RelativeDocumentMoniker": "Model\\Factura.cs",
@@ -163,7 +151,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\conexion.cs",
+              "RelativeDocumentMoniker": "Model\\conexion.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\conexion.cs",
+              "RelativeToolTip": "Model\\conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:00:52.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CUFactura.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\CUFactura.cs",
+              "RelativeDocumentMoniker": "View\\FacturaView\\CUFactura.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\View\\FacturaView\\CUFactura.cs",
+              "RelativeToolTip": "View\\FacturaView\\CUFactura.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:01:26.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DetalleFactura.cs",
               "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\DetalleFactura.cs",
               "RelativeDocumentMoniker": "Model\\DetalleFactura.cs",
@@ -172,18 +185,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T13:00:53.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "conexion.cs",
-              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\conexion.cs",
-              "RelativeDocumentMoniker": "Model\\conexion.cs",
-              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\EVAL\\Parcial 2\\FacturacionElectronica\\Model\\conexion.cs",
-              "RelativeToolTip": "Model\\conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:00:52.95Z"
             },
             {
               "$type": "Document",

@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 
 namespace FacturacionElectronica.Modelo
 {
-    public class conexion
-    {
-        private readonly string varconexion =
-            "Server=(local);database=FacturacionElectronica;uid=sa;pwd=123";
-
-        public SqlConnection obtenerConexion()
+        public class conexion
         {
-            return new SqlConnection(varconexion);
-        }
+            private readonly string varconexion =
+                "Server=(local);database=FacturacionElectronica;uid=sa;pwd=123";
 
-    }
+            public SqlConnection obtenerConexion()
+            {
+                return new SqlConnection(varconexion);
+            }
+
+        }
 }
