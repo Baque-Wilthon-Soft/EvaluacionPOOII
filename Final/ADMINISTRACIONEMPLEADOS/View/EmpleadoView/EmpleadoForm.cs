@@ -178,5 +178,15 @@ namespace ADMINISTRACIONEMPLEADOS.View.EmpleadoView
                 return;
             }
         }
+
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+            string filtro = txtBuscar.Text.Trim();
+            CargarEmpleados(filtro);
+        }
+        private void CargarEmpleados(string filtro = "")
+        {
+            dgvEmpleados.DataSource = empleadoController.ObtenerEmpleados(filtro);
+        }
     }
 }

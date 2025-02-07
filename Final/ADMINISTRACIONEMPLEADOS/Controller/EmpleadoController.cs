@@ -83,5 +83,31 @@ namespace ADMINISTRACIONEMPLEADOS.Controller
                 cmd.ExecuteNonQuery();
             }
         }
+
+        public List<Empleado> ObtenerEmpleados(string filtro = "")
+        {
+            List<Empleado> lista = new List<Empleado>();
+            using (SqlConnection con = cn.obtenerConexion())
+            {
+                con.Open();
+                string query = "SELECT * FROM Empleado WHERE Nombre + ' ' + Apellido LIKE @filtro";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@filtro", "%" + filtro + "%");
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    lista.Add(new Empleado
+                    {
+                        ID = reader.GetInt32(0),
+                        Nombre = reader.GetString(1),
+                        Apellido = reader.GetString(2),
+                        CargoID = reader.GetInt32(3),
+                        DepartamentoID = reader.GetInt32(4),
+                        Salario = reader.GetDecimal(5)
+                    });
+                }
+            }
+            return lista;
+        }
     }
 }
